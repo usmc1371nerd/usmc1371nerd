@@ -40,9 +40,7 @@
 ### Operating Systems
 --------------------------------------------------------------------------------------------------------------------------
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-<br>
+
 
 --------------------------------------------------------------------------------------------------------------------------
 ### 📊 Github Stats
